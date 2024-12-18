@@ -1,3 +1,8 @@
+**PARA VISUALIZAR EL PROYECTO, DA CLICK EN ESTE ENLACE:**
+
+[https://examenpopit.netlify.app](https://examenpopit.netlify.app)
+
+
 # 🎮 Proyecto Pop It - Sitio Web
 ¡Bienvenido al proyecto Pop It! Este es un sitio web divertido donde aprenderemos desarrollo web creando una tienda de juguetes Pop It.
 
